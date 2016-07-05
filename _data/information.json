@@ -1,119 +1,118 @@
 {
-  "introduction": {
-    "name": "John Doe",
-    "description": "This is a mobile-friendly, jekyll-based resume template
-      that will allow you to create, customize, and host a resume online.
-      For more information view the README at
-      <a href='https://github.com/austin94/resume-builder'>https://github.com/austin94/resume-builder</a>.",
-    "links": [
-      {
-        "text": "johndoe@email.com",
-        "url": "johndoe@email.com"
-      },
-      {
-        "text": "https://github.com/johndoe",
-        "url": "https://github.com/johndoe"
-      }
-    ]
-  },
-  "sections": [
-    {
-      "name": "Education",
-      "experiences": [
-        {
-          "name": "Kansas State University",
-          "url": "http://www.k-state.edu",
-          "location": "Manhattan, KS",
-          "subText": "Senior with a 3.60 cumulative GPA. Graduating in Spring 2016.",
-          "description": "",
-          "involvement": [
-            {
-              "description": "Graduated with a degree in Computer Science - Software Engineering with a minor in Business."
-            },
-            {
-              "description": "Focus in scalable web and mobile technologies."
-            },
-            {
-              "description": "Super cool stuff"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Work Experience",
-      "experiences": [
-            {
-              "name": "Work 1",
-              "url": "http://google.com",
-              "location": "Manhattan, KS",
-              "subText": "Software Engineer Front-End Development Team.  August 2014-Present",
-              "description": "This is just a sample description",
-              "involvement": [
-                {
-                  "description": "This is a sub-task for involvement"
-                },
-                {
-                  "description": "There can be multiple of these"
-                }
-              ],
-              "technologies": "You can have a list of technologies here for whatever you need"
-            },
-            {
-              "name": "Work 2",
-              "url": "http://google.com",
-              "location": "Manhattan, KS",
-              "subText": "Software Engineer Front-End Development Team.  August 2014-Present",
-              "description": "This is just a sample description",
-              "involvement": [
-                {
-                  "description": "This is a sub-task for involvement"
-                },
-                {
-                  "description": "There can be multiple of these"
-                }
-              ],
-              "technologies": "You can have a list of technologies here for whatever you need"
-            },
-            {
-              "name": "Work 3",
-              "url": "http://google.com",
-              "location": "Manhattan, KS",
-              "subText": "Software Engineer Front-End Development Team.  August 2014-Present",
-              "description": "This is just a sample description",
-              "involvement": [
-                {
-                  "description": "This is a sub-task for involvement"
-                },
-                {
-                  "description": "There can be multiple of these"
-                }
-              ],
-              "technologies": "You can have a list of technologies here for whatever you need"
-            }
-          ]
-    },
-    {
-      "name": "Community Service",
-      "experiences": [
-        {
-          "name": "DBSAOP",
-          "url": "http://dbsaop.org/",
-          "location": "Overland Park, KS",
-          "subText": "Depression and Bipolar Support Alliance of Overland Park. Fall 2015.",
-          "involvement": [
-            {
-              "description": "Created <a href='http://dbsaop.org/'>http://dbsaop.org</a> for the organization"
-            },
-            {
-              "description": "Created a basic wordpress theme and provided training for staff to actively update their web experience"
-            },
-            {
-              "description": "Helped with general technology questions including mailing lists"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+	"introduction": {
+		"name": "Michael Medis",
+		"description": "Solutions-diven Engineer with a commended proformance in object-oriented programming. Well
+		versed in in all phases of the software development lifecycle. With a specialized background in Rails and
+		Javascript frameworks AngularJS and React. A lifelong learner and always open to new technoligies as well
+		and being disciplined to mastering all part of development.",
+		"links": [
+			{
+				"text": "mike@mikemedis.tech",
+				"url": "mike@mikemedis.tech"
+			},
+			{
+				"text": "https://github.com/mikeMedis",
+				"url": "https://github.com/mikeMedis"
+			}
+		]
+	},
+	"sections": [
+		{
+			"name": "Education",
+			"experiences": [
+				{
+					"name": "Bloc Full Stack Web Developer Track",
+					"url": "Bloc.io",
+					"location": "Remote, Online-Mentorship",
+					"subText": "Full Stack Apprentice. Fufilled 133% of curriculum on Both Rails and Frontend Web
+					Development Tracks",
+					"description": "Web Development Apprenticeship with a Foundation in Ruby, Ruby on Rails, JavaScript,
+					JQuery, ReactJS, and AngularJS.",
+					"involvement": [
+						{
+							"description": "Graduated with over 100% complete. Built production level applications and APIs with
+							the newest technoligies in software development."
+						},
+						{
+							"description": "Focus in Backend and Frontend technologies. Projects were built with Rails, AngularJS,
+							Sass, Stripe, Mailgun, and Firebase"
+						},
+						{
+							"description": "Designed and Published three Amazon Alexa Skills in Node.js.
+							These skills can be found on the Alexa Skill store."
+						}
+					]
+				}
+				{
+					"name": "University of Florida",
+					"url": "http://www.ufl.edu",
+					"location": "Gainesville, FL",
+					"subText": "Studied Economics from 2006-2009",
+				}
+			]
+		},
+		{
+			"name": "Work Experience",
+			"experiences": [
+				{
+					"name": "Water Out of North East Florida",
+					"url": "http://www.wateroutjax.com/services.html",
+					"location": "Jacksonville, FL",
+					"subText": "Drying and Mold Remediation Specialist 2012-Present",
+					"description": "First on secne at a emergency water damage event. Would stablize the
+					area and start the recovery process.",
+					"involvement": [
+						{
+							"description": "Would use the highest technology in water removal process."
+						},
+						{
+							"description": "Emergency situation, keeping a level head and breaking the situation
+							into smaller and more managable parts. Set up a set opf protocols to handle any situation."
+						}
+					],
+					"technologies": "FIR Infared Camera, Water Out Trailor, and Dehumifiers."
+				},
+				{
+					"name": "Screen Enclosure Lighting",
+					"url": "http://screenenclosurelighting.com/",
+					"location": "Jacksonville, FL",
+					"subText": "Team Member 2015-Present",
+					"description": "Set up and Install State-of-the-Art LED lighting system.",
+					"involvement": [
+						{
+							"description": "Would map the electical wiring for the system, use critical thinking to
+							establish a plan of action with each custom job."
+						},
+						{
+							"description": "Install and wire each light and follow the protocol to have each custom job
+							properly designed."
+						}
+					],
+					"technologies": "LED lights, transformers to manipulate electical current and power."
+				},
+				{
+					"name": "Community Service",
+					"experiences": [
+						{
+							"name": "National Multiple Sclerosis Society North Florida Chapter",
+							"url": "http://www.nationalmssociety.org/Chapters/FLN",
+							"location": "Jacksonville, FL",
+							"subText": "Multiple Sclerosis Foundation to improve the quality of life for people
+							affected by MS in North Florida and raise funds for critical MS research.",
+							"involvement": [
+								{
+									"description": "Have attended and provide support at several events."
+								},
+								{
+									"description": "Been actively participating in Education Seminars and assiting
+									patients at these events."
+								},
+								{
+									"description": "Helped with yoga classes that our held for MS patients."
+								}
+							]
+						}
+					]
+				}
+			]
+		}
