@@ -12,8 +12,6 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  background-image: url("../images/crossword.png");
-  font-family: 'Raleway', sans-serif;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -471,7 +469,7 @@ pre {
   width: 75%;
   max-width: 200px; }
 .resume .resume-name {
-  font-size: 45px; }
+  font-size: 30px; }
 .resume .resume-drive-button {
   color: white;
   background-color: #4285f4;
